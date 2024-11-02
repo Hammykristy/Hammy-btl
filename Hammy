@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Welcome</title>
+    <script type="text/javascript">
+        window.onload = function() {
+            alert("You are the future Engineer,yaani fundi!");
+        };
+    </script>
+</head>
+<body>
+    <h1>Welcome to the Future!</h1>
+    <p>This page is just a friendly greeting for future engineers.</p>
+</body>
+</html>
